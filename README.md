@@ -1,1 +1,1 @@
-# Informational Application Detailing UCSD Sports built in React-Native
+# UCSD Sports application built in React-Native
